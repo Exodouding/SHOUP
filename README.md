@@ -10,16 +10,14 @@ Place <a href="http://www.dev-c.com/gtav/scripthookv/">ScriptHookV.dll</a> and/o
 
 After patching it, Drag and drop the patched Dll to your GTAV / RDR2 game folder.
 
-Use Any Internal Injector : dinput8.dll - dsound.dll - xinput1_3.dll. (Know that dinput8.dll is blacklisted in GTA V)
+Use Any Internal Injector : dinput8.dll - dsound.dll - xinput1_3.dll. (Know that dinput8.dll is blacklisted in GTAV !)
 
-Finally drag and drop the desired Script Hook V .ASI and/or Script Hook RDR2 .ASI Scripts/Mods in your game folder.
+Finally drag and drop the desired <a href="https://www.gta5-mods.com/scripts/most-downloaded">Script Hook V ASI Scripts</a> and/or <a href="https://www.nexusmods.com/reddeadredemption2/mods/categories/16/">Script Hook RDR2 .ASI Scripts</a> in your game folder.
 
-You can found some GTAV ASI Script here : https://www.nexusmods.com/reddeadredemption2/mods/categories/16/
+Very few .ASI Scripts might not work as they are blocking you from joining Online. (GTAV : <a href="https://www.gta5-mods.com/scripts/rampage-trainer">Rampage</a> - <a href="https://www.gta5-mods.com/scripts/project-x-thenecromance">Project X</a> | RDR2 : <a href="https://www.nexusmods.com/reddeadredemption2/mods/233">Project X</a>Rampage)
 
-Very Few ASI Scripts might not work as they are blocking you from joining Online.
-
-Anyway, Enjoy ;)
+Anyway, Enjoy ;)   
 
 # • Disclamer ⚠️
 
-This project was made for fun & personal purpose only. Use it as your own risk, we are not responsible of any bans this could lead to.
+This project was made for fun & personal purpose only. Use it as your own risk, we are not responsible of any bans or damage this could lead to.
