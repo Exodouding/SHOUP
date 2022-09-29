@@ -12,7 +12,7 @@ After patching it, Drag and drop the patched Dll to your GTAV / RDR2 game folder
 
 Use Any Internal Injector : dinput8.dll - dsound.dll - xinput1_3.dll. (Know that dinput8.dll is blacklisted in GTA V)
 
-Finally drag and drop the desired .ASI mods in your game folder. 
+Finally drag and drop the desired Script Hook V .ASI and/or Script Hook RDR2 .ASI Scripts/Mods in your game folder.
 
 You can found some GTAV ASI Script here : https://www.nexusmods.com/reddeadredemption2/mods/categories/16/
 
