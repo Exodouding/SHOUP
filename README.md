@@ -20,4 +20,4 @@ Anyway, Enjoy ;)
 
 # • Disclamer ⚠️
 
-This project was made for fun & personal purpose only. Use this as your own risk, we are not responsible of any bans or damage this could lead to Grand Theft Auto Online and/or Red Dead Redemption 2 Online.
+This project was made for fun & personal purpose only. Use this as your own risk, we are not responsible of any bans or damage this could lead to Grand Theft Auto V Online and/or Red Dead Redemption 2 Online.
