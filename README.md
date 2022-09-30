@@ -1,6 +1,6 @@
 # • What is SHOUP ❓
 
-SHOUP (Script Hook Online Universal Patcher) is a tool created to patch any version of **Script Hook V** &amp; **Script Hook RDR2** made by <a href="http://www.dev-c.com/">Alexander Blade</a> to make them usable in Online.
+SHOUP (Script Hook Online Universal Patcher) is a simple tool created to patch any version of **Script Hook V** &amp; **Script Hook RDR2** made by <a href="http://www.dev-c.com/">Alexander Blade</a> to bypass their utilisation & make them them usable in Online.
 
 # • How it works 🛠
 
