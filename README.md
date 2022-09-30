@@ -16,6 +16,8 @@ Very few .ASI Scripts might not work as they are blocking you from joining Onlin
 
 (GTAV : <a href="https://www.gta5-mods.com/scripts/rampage-trainer">Rampage</a> - <a href="https://www.gta5-mods.com/scripts/project-x-thenecromance">Project X</a> | RDR2 : <a href="https://www.nexusmods.com/reddeadredemption2/mods/233">Rampage</a>)
 
+Video Tutorials : <a href="https://www.youtube.com/watch?v=cEsy7svZCrI">Script Hook V Tutorial</a> | <a href="https://www.youtube.com/watch?v=QgGS1eAjR0I">Script Hook RDR2 Tutorial</a>
+
 Anyway, Enjoy ;)
 
 # • Disclamer ⚠️
