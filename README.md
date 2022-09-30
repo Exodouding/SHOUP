@@ -14,7 +14,7 @@ Finally install the desired <a href="https://www.gta5-mods.com/scripts/most-down
 
 Very few .ASI Scripts might not work as they are blocking you from joining Online. (GTAV : <a href="https://www.gta5-mods.com/scripts/rampage-trainer">Rampage</a> - <a href="https://www.gta5-mods.com/scripts/project-x-thenecromance">Project X</a> | RDR2 : <a href="https://www.nexusmods.com/reddeadredemption2/mods/233">Rampage</a>)
 
-Anyway, Enjoy ;)   
+Anyway, Enjoy ;)
 
 # • Disclamer ⚠️
 
@@ -22,4 +22,4 @@ This project was made for fun & personal purpose only. Use this as your own risk
 
 ![SHOUP](https://raw.githubusercontent.com/Exodouding/SHOUP/main/SHOUP.png)
 
-This tool was made with <a href="https://github.com/K3rhos/">@K3rhos</a>, you can check out his release here : <a href="https://github.com/K3rhos/SHOUP">SHOUP</a>.
+This tool was made with <a href="https://github.com/K3rhos/">K3rhos</a>, you can check out his release here : <a href="https://github.com/K3rhos/SHOUP">SHOUP</a>.
