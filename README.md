@@ -10,7 +10,7 @@ After patching it, Drag and drop the patched Dll(s) to your GTAV/RDR2 game files
 
 Use Any Internal Injector : dinput8.dll - dsound.dll - xinput1_3.dll. (Know that dinput8.dll is blacklisted in GTAV !)
 
-Finally install the desired <a href="https://www.gta5-mods.com/scripts/most-downloaded">Script Hook V ASI Scripts</a> and/or <a href="https://www.nexusmods.com/reddeadredemption2/mods/categories/16/">Script Hook RDR2 .ASI Scripts</a>.
+Finally install the desired <a href="https://www.gta5-mods.com/scripts/most-downloaded">Script Hook V ASI Scripts</a> and/or <a href="https://www.nexusmods.com/reddeadredemption2/mods/categories/16/">Script Hook RDR2 ASI Scripts</a>.
 
 Very few .ASI Scripts might not work as they are blocking you from joining Online. (GTAV : <a href="https://www.gta5-mods.com/scripts/rampage-trainer">Rampage</a> - <a href="https://www.gta5-mods.com/scripts/project-x-thenecromance">Project X</a> | RDR2 : <a href="https://www.nexusmods.com/reddeadredemption2/mods/233">Rampage</a>)
 
