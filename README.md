@@ -25,5 +25,3 @@ Anyway, Enjoy ;)
 This project was made for fun & personal purpose only. Use this as your own risk, we are not responsible of any bans or damage this could lead to Grand Theft Auto V Online and/or Red Dead Redemption 2 Online.
 
 ![SHOUP](https://raw.githubusercontent.com/Exodouding/SHOUP/main/SHOUP.png)
-
-This tool was made with <a href="https://github.com/K3rhos/">K3rhos</a>, you can check out his release here : <a href="https://github.com/K3rhos/SHOUP">SHOUP</a>.
