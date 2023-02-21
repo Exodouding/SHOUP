@@ -24,4 +24,4 @@ Anyway, Enjoy ;)
 
 This project was made for fun & personal purpose only. Use this as your own risk, we are not responsible of any bans or damage this could lead to Grand Theft Auto V Online and/or Red Dead Redemption 2 Online.
 
-![SHOUP](https://raw.githubusercontent.com/Exodouding/SHOUP/main/SHOUP.png)
+![SHOUP](https://i.imgur.com/0XVbLbS.png)
